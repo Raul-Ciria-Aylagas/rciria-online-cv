@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Raul Ciria Aylagas
+    tagline: Energy Engineer - Software developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
+    email: ciriaraul@gmail.com
+    phone: +34 680548621
+    timezone: Europe Central/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Spanish
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: raul-ciria
+    xing: 
+    github: Raul-Ciria-Aylagas
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,61 +36,57 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Started university education as an Energy Engineer with speciality on physical models, simulation 
+      and numerical methods, I started my career working as a consultant in the building energy sector.
+      As I started gaining experience in energy simulations and software development, soon I looked for more
+      challenges and started working as a researcher in energy storage devices, developing simulation 
+      software for Lithium Ion batteries. After some time, fate made me move to a different city and
+      changed the focus of my work back to the building energy sector, but dedicated to software 
+      development for automated control of building systems.
+      Through my carrer I've had to deal with code in many languages (C/C++, Java, Ruby, R, Matlab, Fortran, 
+      Modelica, Perl ...) but my main programing language which I'm proefficient in is Python. 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Data Mining and Statistical Learning
+        university: Universidad Nacional de Educacion a Distancia(UNED)
+        time: 2019 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+      - degree: MSc in Industrial Mathematics
         university: Bristol University
-        time: 2007 - 2011
+        time: 2016 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Master Thesis: Atmospheric dispersion in the micro-scale: an urban application
+      - degree: BSc in Energy Engineering
+        university: Universidad Politecnica de Madrid (UPM)
+        time: 2012 - 2016
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - 4th year at NTNU Trondheim, Norway in the Erasmus Program
+            - Bachelor Thesis: Visualization of condensation over micro-structured surfaces 
 
 experiences:
     title: Experiences
