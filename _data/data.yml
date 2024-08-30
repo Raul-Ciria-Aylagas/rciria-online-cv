@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Raul Ciria Aylagas
@@ -61,13 +61,13 @@ education:
         university: Universidad Nacional de Educacion a Distancia (UNED)
         time: 2019 - 2020
         details: |
-          Here I studied and practiced the whole process of harvesting, transforming and storing and visualize 
+          Course about whole process of harvesting, transforming and storing and visualize 
           data to extract knoweldge in databases applying machine learning algorithms.          
       - degree: MSc in Industrial Mathematics
         university: Universidad Politecnica de Madrid (UPM)
         time: 2016 - 2018
         details: |
-          Taking this MSc I specialized in mathematical modeling, numerical methods, programming and simulation.
+          Specialization in mathematical modeling, numerical methods, optimization and simulation.
             - Master Thesis: Atmospheric dispersion in the micro-scale: an urban application
       - degree: BSc in Energy Engineering
         university: Universidad Politecnica de Madrid (UPM)
