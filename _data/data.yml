@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Started university education as an Energy Engineer with speciality on physical models, simulation 
+      Being educcated as an Energy Engineer with speciality on physical models, simulation 
       and numerical methods, I started my career working as a consultant in the building energy sector.
       As I started gaining experience in energy simulations and software development, soon I looked for more
       challenges and started working as a researcher in energy storage devices, developing simulation 
@@ -108,8 +108,8 @@ experiences:
         company: OVE Arup & Partners, Madrid
         details: |
           Working in the Energy and Sustainability department my work focused on numerical modelling in thermal and fluid 
-          dynamics (CFD) problems in the buildings and their surrondings for facade studies, thermal comfort and natural ventilation.
-          I also participated in the development of web and desktop applications.
+          dynamics (CFD) problems in the buildings and their surrondings for facade studies, thermal comfort, natural ventilation
+          and urban microclimates. I also participated in the development of web and desktop applications.
             - Building energy performance simulation
             - Thermal calculations on facades
             - CFD on the built environment (wind loads, comfort, natural ventilation)
@@ -122,9 +122,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Since I started working as a researcher I have been involved in several articles and conferences. Here are most of my published work.
     papers:
       - title: "Understanding Battery Interfaces by Combined Characterization and Simulation Approaches: Challenges and Perspectives"
         link: "https://doi.org/10.1002/aenm.202102687"
@@ -145,7 +143,7 @@ publications:
         conference: "CISBAT 2024"
 
 programming_languages:
-    title: Programming languages knoweldge and experience
+    title: Programming languages expertise
 
     toolset:
       - name: Python
