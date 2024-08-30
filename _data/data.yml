@@ -161,16 +161,16 @@ programming_languages:
         level: 80%
 
       - name: C/C++
-        level: 30%
+        level: 25%
 
       - name: Fortran
-        level: 30%
+        level: 25%
 
       - name: Matlab
         level: 60%
 
       - name: Java
-        level: 50%
+        level: 40%
 
       - name: Ruby
         level: 40%
