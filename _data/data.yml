@@ -4,20 +4,20 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Raul Ciria Aylagas
-    tagline: Energy Engineer - Software developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Energy Engineer - Software developer - Data Scientist
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ciriaraul@gmail.com
     phone: +34 680548621
-    timezone: Europe Central/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Spanish
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website:  # Include the full website URL, including "http://" or "https://".
     linkedin: raul-ciria
     xing: 
     github: Raul-Ciria-Aylagas
@@ -58,163 +58,66 @@ education:
     title: Education
     info:
       - degree: MSc in Data Mining and Statistical Learning
-        university: Universidad Nacional de Educacion a Distancia(UNED)
+        university: Universidad Nacional de Educacion a Distancia (UNED)
         time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Here I studied and practiced the whole process of harvesting, transforming and storing and visualize 
+          data to extract knoweldge in databases applying machine learning algorithms.          
       - degree: MSc in Industrial Mathematics
-        university: Bristol University
+        university: Universidad Politecnica de Madrid (UPM)
         time: 2016 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Taking this MSc I specialized in mathematical modeling, numerical methods, programming and simulation.
             - Master Thesis: Atmospheric dispersion in the micro-scale: an urban application
       - degree: BSc in Energy Engineering
         university: Universidad Politecnica de Madrid (UPM)
         time: 2012 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          This grade is similar to a grade in Industrial engineering with the speciality of Energy systems.
             - 4th year at NTNU Trondheim, Norway in the Erasmus Program
             - Bachelor Thesis: Visualization of condensation over micro-structured surfaces 
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: R&D Specialist
+        time: 2022 - Present
+        company: Centro Nacional de Energias Renovables (CENER), Pamplona
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Working on the department of Energy Transition in Cities. During this time I've been working on the
+          development of digital products based on automatic control algorithms both data-driven and model-based 
+          to increase the performance of HVAC and other building systems. 
+          I've also participated in the development of software to extend the energy analysis to the district scale
+          for the decarbonization of the industries and building sector.
+            - Control algorithms
+            - Software development
+            - Data-driven surrogate modelling
+      - role: Researcher
+        time: 2020 - 2022
+        company: CIDETEC, Donostia/San Sebastian
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Working on the modeling and simulation team. During this time I developed software for battery modelling
+          and simulation and to analyze data from electrochemical battery tests. During this time I participated 
+          in different European projects such as DEFACTO, SAFELIMOVE, SPIDER or BIG-MAP as well as industrial projects 
+          with important companies in the automotive sector.
+            - Finite element electrochemical modelling
+            - Reduced Order Models for optimization
+            - Software development
+      - role: Consultant Engineer
+        time: 2018 - 2020
+        company: OVE Arup & Partners, Madrid
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working in the Energy and Sustainability department my work focused on numerical modelling in thermal and fluid 
+          dynamics (CFD) problems in the buildings and their surrondings for facade studies, thermal comfort and natural ventilation.
+          I also participated in the development of web and desktop applications.
+            - Building energy performance simulation
+            - Thermal calculations on facades
+            - CFD on the built environment (wind loads, comfort, natural ventilation)
+            - Software development
+      - role: Intern Energy Engineer
+        time: 2017 - 2018
+        company: OVE Arup & Partners, Madrid
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -223,42 +126,80 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Understanding Battery Interfaces by Combined Characterization and Simulation Approaches: Challenges and Perspectives"
+        link: "https://doi.org/10.1002/aenm.202102687"
+        authors: E. Ayerbe et al.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "cideMOD: An Open Source Tool for Battery Cell Inhomogeneous Performance Understanding"
+        link: "https://doi.org/10.1149/1945-7111/ac91fb"
+        authors: R. Ciria et al.
+        
+      - title: "Next generation of heat pumps for buildings based on thermoelectricity integrated with smart grids"
+        link: "https://doi.org/10.1088/1742-6596/2600/6/062001"
+        authors: S. Diaz de Garayo, R. Ciria, M. Boneta
+        conference: "CISBAT 2024"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Management tool of highly efficient social housing to provide healthy indoor conditions and fight energy poverty"
+        link: "https://doi.org/10.1088/1742-6596/2600/13/132009"
+        authors: R. Ciria, S. Diaz de Garayo, M. Boneta
+        conference: "CISBAT 2024"
+
+programming_languages:
+    title: Programming languages knoweldge and experience
+
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: SQL
+        level: 70%
+
+      - name: Javascript
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: C/C++
+        level: 30%
+
+      - name: Fortran
+        level: 30%
+
+      - name: Matlab
+        level: 60%
+
+      - name: Java
+        level: 50%
+
+      - name: Ruby
+        level: 40%
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Project management and budget estimation
+        level: 50%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Numerical simulation (OpenFoam, Comsol, FEniCS)
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Building energy preformance (E+, DesignBuilder, Modelica)
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Database creation and management (Postgres, SQLite, Mongo, ...)
         level: 60%
+
+      - name: Big data analysis
+        level: 60%
+
+      - name: Web development (Django, Flask)
+        level: 80%
+
+      - name: 3D Modelling (Sketchup, AutoCAD, Rhinoceros):
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
