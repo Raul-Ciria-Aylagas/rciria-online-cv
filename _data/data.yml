@@ -87,8 +87,9 @@ experiences:
           Working on the department of Energy Transition in Cities. During this time I've been working on the
           development of digital products based on automatic control algorithms both data-driven and model-based 
           to increase the performance of HVAC and other building systems. 
-          I've also participated in the development of software to extend the energy analysis to the district scale
-          for the decarbonization of the industries and building sector.
+          I've also lead the development of software to extend the energy analysis to the district scale
+          for the decarbonization of the industries and building sector. In this context I've designed and created
+          building information databases, data harvesting pipelines and simulation workflows.
             - Control algorithms
             - Software development
             - Data-driven surrogate modelling
